@@ -11,7 +11,7 @@
 </div>
 
 ## 🚀 About Us
-Stunguard adalah sebuah aplikasi yang dirancang untuk mendeteksi stunting secara dini pada anak. Aplikasi ini memanfaatkan teknologi berbasis data dan kecerdasan buatan guna mendukung upaya pencegahan stunting sejak tahap awal.
+Kami adalah tim CC25-CF172 yang berfokus pada pengembangan aplikasi web inovatif untuk deteksi dini stunting pada anak dengan nama Stunguard. Stunguard adalah sebuah aplikasi yang dirancang untuk mendeteksi stunting secara dini pada anak. Aplikasi ini memanfaatkan teknologi berbasis data dan kecerdasan buatan guna mendukung upaya pencegahan stunting sejak tahap awal.
 ## 🎯 Misi & Visi
 
 ### 🌟 **Motivasi Utama**
